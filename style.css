@@ -46,7 +46,7 @@ img, p, h1, h2 {
 .info {
     display: flex;
     flex-direction: column;
-    padding: 71px 71px 0 71px;
+    padding: 71px 111px 0 71px;
 }
 
 h1 {
