@@ -34,12 +34,6 @@ img, p, h1, h2 {
     vertical-align: bottom;
     mix-blend-mode: multiply;
     opacity: 0.75;
-}
-
-.image_mobile {
-    mix-blend-mode: multiply;
-    opacity: 0.75;
-    display: none;
     max-width: 100%;
 }
 
@@ -159,14 +153,6 @@ h2 {
 }
 
 @media (max-width: 600px) {
-    .image {
-        display: none;
-    }
-
-    .image_mobile {
-        display: block;
-    }
-
     h1 {
         text-align: center;
         font-size: 28px;
